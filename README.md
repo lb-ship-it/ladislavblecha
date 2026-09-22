@@ -1,4 +1,4 @@
-Hi, I'm Ladislav Blecha
+Hi, I'm Ladislav
 
 ⚡ my core focus ⫘ IT Solutions & Automations ⫘
 
