@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lokální zařízení Ladislava Blechy. Označení A–D se používá v briefech a pokynech agentům. -->
+<zarizeni aktualizovano="2026-09-26">
+  <jednotka id="A">
+    <nazev>Lenovo (nové)</nazev>
+    <typ>notebook</typ>
+    <vyrobce>Lenovo</vyrobce>
+    <os>Windows 11 Home</os>
+    <poznamka>Aktuální hlavní pracovní stroj.</poznamka>
+  </jednotka>
+  <jednotka id="B">
+    <nazev>Lenovo (původní)</nazev>
+    <typ>notebook</typ>
+    <vyrobce>Lenovo</vyrobce>
+    <poznamka>Původní stroj, používaný i dříve.</poznamka>
+  </jednotka>
+  <jednotka id="C">
+    <nazev>Mac</nazev>
+    <typ>počítač</typ>
+    <vyrobce>Apple</vyrobce>
+    <os>macOS</os>
+  </jednotka>
+  <jednotka id="D">
+    <nazev>Google Pixel 9 Pro XL</nazev>
+    <typ>mobil</typ>
+    <vyrobce>Google</vyrobce>
+    <os>Android</os>
+  </jednotka>
+</zarizeni>
