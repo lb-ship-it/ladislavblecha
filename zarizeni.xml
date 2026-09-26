@@ -12,6 +12,7 @@
     <nazev>Lenovo (původní)</nazev>
     <typ>notebook</typ>
     <vyrobce>Lenovo</vyrobce>
+    <os>Windows 11</os>
     <poznamka>Původní stroj, používaný i dříve.</poznamka>
   </jednotka>
   <jednotka id="C">
